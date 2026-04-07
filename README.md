@@ -19,6 +19,7 @@ python netwatch.py
 
 Press `Ctrl+C` to exit.
 
+<img width="681" height="594" alt="image" src="https://github.com/user-attachments/assets/36fbeb22-ca64-420a-933b-52741c4f4b46" />
 
 ########################################
 
