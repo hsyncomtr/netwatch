@@ -1,5 +1,30 @@
 # netwatch
 
+A lightweight, real-time internet connection monitor for the terminal. No third-party dependencies — works entirely with the Python standard library.
+
+## Features
+- Ping check every second with latency measurement
+- Rolling 30-sample ASCII ping history bar
+- Live outage timer for the active disconnection
+- Outage log with start/end timestamps and duration
+- Public IP tracking with change detection
+- High-ping warning (default threshold: 1000 ms)
+- Cross-platform: Windows, macOS, Linux
+- ANSI color support with automatic fallback
+
+## Usage
+```bash
+python netwatch.py
+```
+
+Press `Ctrl+C` to exit.
+
+
+########################################
+
+
+# netwatch
+
 Terminal tabanlı internet bağlantı izleyicisi. Hiçbir üçüncü taraf bağımlılığı gerektirmez; yalnızca Python standart kütüphanesiyle çalışır.
 
 ## Özellikler
